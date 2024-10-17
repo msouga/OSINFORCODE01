@@ -4,6 +4,8 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Configuration;
 using System;
+// Proyecto para Osinfor Simple 
+// Mostrar las variables de entorno de la aplicación
 
 namespace EnvVariablesApp
 {
